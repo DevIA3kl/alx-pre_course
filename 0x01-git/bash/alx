@@ -1,18 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5f05711bf6a14d0e1d5d83fcff2e4375c08f4f22
 echo "ALX School is so cool!"
-=======
 echo "ALX School"
->>>>>>> update_script
-<<<<<<< HEAD
-=======
-echo "ALX School"
-
->>>>>>> update_script
-=======
-Merge conflict in bash/alx
->>>>>>> 5f05711bf6a14d0e1d5d83fcff2e4375c08f4f22
